@@ -1,0 +1,5 @@
+setup.py
+my_change_detection_lib.egg-info/PKG-INFO
+my_change_detection_lib.egg-info/SOURCES.txt
+my_change_detection_lib.egg-info/dependency_links.txt
+my_change_detection_lib.egg-info/top_level.txt
